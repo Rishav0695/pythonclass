@@ -4,3 +4,4 @@ d=lambda a,b:a*b
 f=functools.reduce(d,c)
 print(f)
 print("hello")
+print("hello")
